@@ -1,0 +1,10 @@
+export { default as Class } from './class/Class';
+export { default as Rules } from './rules/Rules';
+export { default as Schedule } from './schedule/Schedule';
+export { default as School } from './school/School';
+export { default as SemesterReport } from './semesterReport/SemesterReport';
+export { default as Students } from './students/Students';
+export { default as Subject } from './subject/Subject';
+export { default as SubjectReport } from './subjectReport/SubjectReport';
+export { default as Teachers } from './teachers/Teachers';
+export { default as Transcript } from './transcript/Transcript';
